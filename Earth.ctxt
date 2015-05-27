@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Earth()
+comment0.text=\r\n\ Creates\ a\ new\ Earth\ object\ that\ will\ run\ through\ all\r\n\ three\ predefined\ maps\ sequentially.\r\n
+comment1.params=map
+comment1.target=Earth(int)
+comment1.text=\r\n\ Creates\ a\ new\ Earth\ object\ with\ a\ specified\ map.\r\n\ @param\ map\ A\ number\ from\ 1-3\ indicating\ which\ predefined\r\n\ \ \ \ \ \ \ \ \ \ \ \ map\ should\ be\ used\ for\ this\ new\ world.\r\n
+numComments=2
